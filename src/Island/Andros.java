@@ -11,16 +11,5 @@ public class Andros  extends Island {
     }
 }
 
-class Main {
-    public static void main(String[] args) {
-        Andros Andros_info = new Andros();
 
-        Andros_info.name = "Andros";
-        Andros_info.area = 300;
-
-        Andros_info.Display();
-
-        Andros_info.Capital();
-    }
-}
 
